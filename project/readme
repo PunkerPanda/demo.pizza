@@ -1,0 +1,18 @@
+=== project description
+You will be writing a small app for a small pizza parlour. This
+pizza parlour has 1 pizza with three optional toppings. It's very
+sad.
+
+Design two database tables. One is a customer table. One is a
+pizza table, you can use a column for each ingredient. Each pizza
+order generates a record in the pizza table, tied to a customer.
+
+Next, design and implement a PHP program to capture pizza
+orders. Your solution will be evaluated on both the quality of the
+design and the quality of the implementation. List any frameworks
+that you use.
+
+
+
+
+
