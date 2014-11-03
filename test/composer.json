@@ -2,5 +2,13 @@
     "require-dev": {
         "behat/behat": "2.4.*@stable",
         "phpunit/phpunit": "4.3.*"
+    },
+    "autoload": {
+        "classmap": [
+            "unit",
+            "../project/core"
+        ],
+        "files": [
+        ]
     }
 }
